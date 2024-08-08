@@ -1,0 +1,6 @@
+No,Single,75,No
+Yes,Married,50,No
+No,Married,150,No
+Yes,Divorced,90,No
+No,Single,40,No
+No,Married,80,No
